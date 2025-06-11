@@ -1,3 +1,59 @@
-body{
-	background: grey;
+header h1 {
+text-align: center;
+color: white;
+
+
 }
+header {
+background-color: blue;
+
+
+}
+
+body {
+background-color: lightblue;
+}
+
+header p {
+text-align: center;
+}
+
+.Osel {
+width: 120px;
+height: 120px;
+
+}
+main h1 {
+    
+text-align:center;   
+background-color: blue; 
+color: white;
+
+}
+ main h2{
+    text-align: center;
+    color: white;
+
+background-color: blue;
+
+
+ }
+
+ .Video {
+ text-align: center;
+ text-decoration: none;
+ border: 1px solid darkblue;
+ border-radius: 20px;
+ font-size: 30px;
+ color: black;
+padding: 10px;
+background-color: aqua;
+
+
+ }
+
+ footer h2 {
+    color: darkblue;
+    b
+
+ }
